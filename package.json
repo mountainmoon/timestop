@@ -1,0 +1,28 @@
+{
+  "name": "timestop",
+  "version": "0.0.1",
+  "description": "pause setTimeout if needed",
+  "homepage": "https://github.com/mountainmoon/timestop",
+  "keywords": [
+    "timestop",
+    "debug"
+  ],
+  "author": "Kecheng Yue <yuekec@gmail.com>",
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mountainmoon/timestop.git"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "main": "./timestop.js",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/mountainmoon/timestop/blob/master/LICENSE"
+    }
+  ]
+}
